@@ -1,0 +1,6 @@
+h1, p {
+    background-color: red;
+    text-align: center;
+    padding: 2rem;
+    text-decoration: underline;
+}
