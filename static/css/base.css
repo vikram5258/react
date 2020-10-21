@@ -1,0 +1,30 @@
+* {
+    background-color: #e2f891;
+    text-emphasis-color: #c04646f3;
+    font-weight: bold;
+}
+
+h1 {
+    border-radius: 5rem;
+    font-size: 35px;
+    background-color: rgb(0, 174, 255);
+    text-align: center;
+    padding: 2rem;
+    right: 0;
+    width: 50%;
+    text-shadow: 1rem;
+}
+
+p {
+    font-size: 20px;
+    background-color: rgb(245, 140, 42);
+    text-align: center;
+    padding: 2rem;
+}
+span {
+    background-color: rgba(0, 174, 255, .1);
+}
+
+div.super {
+    right: 0;
+}
